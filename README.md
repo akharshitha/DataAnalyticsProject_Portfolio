@@ -57,6 +57,9 @@ Data Cleaning and formatting.
 - No Cost Breakdown: Profit analysis lacks detailed cost components (e.g., shipping, marketing, discounts), which limits the depth of profitability insights.
 - Limited Interactivity for End-Users: As a static dashboard screenshot or published view, some dynamic filtering or drill-down capabilities may be restricted depending on how it's shared.
 
+### Dashboard Image
+  ![image alt](https://github.com/akharshitha/Project_portfolio/blob/c154e36b6fa76f1257018f34bd4d9304beeaa438/Screenshot%20Dashboard.png)
+
 
 
 
